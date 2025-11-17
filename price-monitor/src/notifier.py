@@ -64,7 +64,7 @@ def notify_price_drop(results, receiver_email: str):
 
     # Envia email
     send_email(
-        subject="📉 Alerta: Preço atingido!",
+        subject="Alerta: Preço atingido!",
         body=html_body,
         to_email=receiver_email
     )
