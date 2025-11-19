@@ -1,0 +1,57 @@
+2025-11-17 10:43:00,788 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 10:43:00,853 - ERROR - Não foi possível converter preço: 346,,73
+2025-11-17 10:43:00,853 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 10:43:00,898 - INFO - Preço encontrado para BHQ Megilloth: 346.0
+2025-11-17 10:43:00,900 - INFO - Histórico atualizado: BHQ Megilloth - 346.0
+2025-11-17 10:52:43,640 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 10:52:43,650 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 10:52:43,656 - ERROR - Elemento não encontrado para selector: .a-price-whole
+2025-11-17 10:52:43,657 - ERROR - Preço não encontrado para: BHQ Megilloth
+2025-11-17 10:52:43,657 - INFO - Nenhum produto atingiu o preço alvo.
+2025-11-17 10:53:16,288 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 10:53:16,291 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 10:53:16,294 - ERROR - Elemento não encontrado para selector: .a-price-whole
+2025-11-17 10:53:16,294 - ERROR - Preço não encontrado para: BHQ Megilloth
+2025-11-17 10:53:16,294 - INFO - Nenhum produto atingiu o preço alvo.
+2025-11-17 10:53:33,563 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 10:53:33,563 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 10:53:33,566 - ERROR - Elemento não encontrado para selector: .a-price-whole
+2025-11-17 10:53:33,566 - ERROR - Preço não encontrado para: BHQ Megilloth
+2025-11-17 10:53:33,566 - INFO - Nenhum produto atingiu o preço alvo.
+2025-11-17 10:54:21,695 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 10:54:21,749 - ERROR - Não foi possível converter preço: 346,,73
+2025-11-17 10:54:21,750 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 10:54:21,810 - INFO - Preço encontrado para BHQ Megilloth: 346.0
+2025-11-17 10:54:21,811 - INFO - Histórico atualizado: BHQ Megilloth - 346.0
+2025-11-17 10:57:43,833 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 10:57:43,840 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 10:57:43,844 - ERROR - Elemento não encontrado para selector: .a-price-whole
+2025-11-17 10:57:43,844 - ERROR - Preço não encontrado para: BHQ Megilloth
+2025-11-17 10:57:43,844 - INFO - Nenhum produto atingiu o preço alvo.
+2025-11-17 11:01:51,982 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 11:01:51,990 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 11:01:51,991 - ERROR - Elemento não encontrado para selector: .a-price-whole
+2025-11-17 11:01:51,991 - ERROR - Preço não encontrado para: BHQ Megilloth
+2025-11-17 11:01:51,992 - INFO - Nenhum produto atingiu o preço alvo.
+2025-11-17 11:02:14,316 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 11:02:14,322 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 11:02:14,324 - ERROR - Elemento não encontrado para selector: .a-price-whole
+2025-11-17 11:02:14,324 - ERROR - Preço não encontrado para: BHQ Megilloth
+2025-11-17 11:02:14,324 - INFO - Nenhum produto atingiu o preço alvo.
+2025-11-17 11:03:33,017 - INFO - Usando PRICE_SELECTOR: .a-price-whole
+2025-11-17 11:03:34,499 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 11:03:34,499 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 11:03:34,499 - ERROR - Elemento não encontrado para selector: .a-price-whole
+2025-11-17 11:03:34,499 - ERROR - Preço não encontrado para: BHQ Megilloth
+2025-11-17 11:03:34,499 - INFO - Nenhum produto atingiu o preço alvo.
+2025-11-17 11:03:45,885 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 11:03:45,896 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 11:03:45,896 - ERROR - Elemento não encontrado para selector: .a-price-whole
+2025-11-17 11:03:45,896 - ERROR - Preço não encontrado para: BHQ Megilloth
+2025-11-17 11:03:45,896 - INFO - Nenhum produto atingiu o preço alvo.
+2025-11-17 11:04:02,934 - INFO - HTML obtido: https://www.amazon.com.br/Biblia-Hebraica-Quinta-Introduction-Megilloth/dp/3438052784/ref=pd_cart_ci_mcx_mr_hp_d_d_sccl_1_3/141-6520831-7332938?pd_rd_w=negTA&content-id=amzn1.sym.87bdfb2a-110e-4305-a443-b27425a7e502:amzn1.symc.53796343-3ad3-45c4-a05f-1aac82f330c4&pf_rd_p=87bdfb2a-110e-4305-a443-b27425a7e502&pf_rd_r=NYDNEJVEQ51EDFER2H51&pd_rd_wg=0HjaX&pd_rd_r=f68b4e99-ced5-4e67-beb0-2bcb140d150a&pd_rd_i=3438052784&psc=1
+2025-11-17 11:04:02,997 - ERROR - Não foi possível converter preço: 346,,73
+2025-11-17 11:04:02,997 - WARNING - Amazon fallback ativado para BHQ Megilloth
+2025-11-17 11:04:03,040 - INFO - Preço encontrado para BHQ Megilloth: 346.0
+2025-11-17 11:04:03,041 - INFO - Histórico atualizado: BHQ Megilloth - 346.0
+2025-11-17 11:04:07,725 - INFO - E-mail enviado para seuemail@gmail.com — assunto: Alerta: Preço atingido!
